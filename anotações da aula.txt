@@ -1,0 +1,3 @@
+para clonar o repositório: git clone <endereço no github>
+para verificar situação dos arquivos: git status
+para adicionar o arquivo ao repositório: git add .(adiciona todos. Se precisar adicionar arquivo específico, basta especificar o nome)
